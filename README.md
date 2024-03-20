@@ -1,4 +1,4 @@
-# vertical brush pmcp font【層圧島集倉字】
+# vertical brush pmcp font
 
 <!-- ![](./sample.png)
 
