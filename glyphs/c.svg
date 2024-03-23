@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1595.002mm"
-   height="235.98546mm"
-   viewBox="0 0 1595.002 235.98546"
+   width="68mm"
+   height="235.985mm"
+   viewBox="961 0 68.000002 235.985"
    version="1.1"
    id="svg1"
-   sodipodi:docname="vertical_pmcp.svg"
+   sodipodi:docname="c.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.61858946"
-     inkscape:cx="5274.0957"
-     inkscape:cy="375.8551"
+     inkscape:zoom="0.2402239"
+     inkscape:cx="890.83558"
+     inkscape:cy="326.77847"
      inkscape:window-width="1280"
      inkscape:window-height="729"
      inkscape:window-x="-8"
@@ -39,7 +39,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(704.99163,-261.35545)">
-  <path
+    <path
        id="path4"
        style="fill:#00ffff;fill-opacity:0.533333;stroke:#000000;stroke-width:0.989406"
        d="m 274.71136,317.95768 c -2.23012,0.51491 -6.1966,0.0513 -7.2473,1.86346 0.35836,7.92337 0.71671,15.84675 1.07507,23.77012 1.51853,-0.45071 0.4564,4.32205 0.88832,5.96139 0.38727,15.38269 2.09223,30.68133 3.40012,45.99909 0.2773,5.62956 0.67102,11.2571 0.90407,16.88742 l 6.80853,0.0603 c 2.4021,0.0213 5.88113,-1.32996 8.37189,-3.51835 9.34493,-8.21048 18.46113,-17.73253 22.08632,-29.88695 2.60742,-9.73314 1.19813,-19.89181 0.89848,-29.80482 -0.94764,-8.57584 -6.9271,-15.48716 -13.03521,-21.11235 -6.77183,-5.70038 -15.10557,-10.17078 -24.15029,-10.21935 z m 1.49707,23.32416 c 11.68552,0.29778 21.91208,8.09413 28.21352,17.52429 2.8681,3.21507 0.6524,7.52665 -1.34671,10.54255 -4.74207,7.0598 -11.73956,12.36626 -18.5239,17.46397 -2.07765,1.56113 -3.47364,2.7725 -6.7156,3.96036 -1.00735,-5.24315 -0.54286,-10.63622 -1.28007,-15.92888 -1.17462,-11.06674 -2.39172,-22.13629 -3.07317,-33.24693 0.89977,-0.17285 1.80723,-0.31658 2.72593,-0.31536 z"
