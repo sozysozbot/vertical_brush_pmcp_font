@@ -2,7 +2,7 @@
 
 ![](./sample.png)
 
-Available in [TTF](https://github.com/sozysozbot/vertical_brush_pmcp_font/blob/master/fonts/vertical-brush.ttf) and [WOFF](https://github.com/sozysozbot/vertical_brush_pmcp_font/blob/master/fonts/vertical-brush.woff). -->
+Available in [TTF](https://github.com/sozysozbot/vertical_brush_pmcp_font/blob/master/fonts/vertical-brush.ttf) and [WOFF](https://github.com/sozysozbot/vertical_brush_pmcp_font/blob/master/fonts/vertical-brush.woff).
 
 ![](./vertical_pmcp.svg)
 
