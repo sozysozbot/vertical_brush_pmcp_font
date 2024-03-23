@@ -1,0 +1,72 @@
+@font-face {
+  font-display: block;
+  font-family: "vertical-brush";
+  src: url("./vertical-brush.ttf?29bdd54998e8567961c15eb420a4ee51") format("truetype"),
+url("./vertical-brush.woff?29bdd54998e8567961c15eb420a4ee51") format("woff");
+}
+
+i[class^="icon-"]::before, i[class*=" icon-"]::before {
+  font-family: vertical-brush !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a::before {
+  content: "\61";
+}
+.icon-b::before {
+  content: "\62";
+}
+.icon-c::before {
+  content: "\63";
+}
+.icon-d::before {
+  content: "\64";
+}
+.icon-e::before {
+  content: "\65";
+}
+.icon-i::before {
+  content: "\69";
+}
+.icon-j::before {
+  content: "\6a";
+}
+.icon-k::before {
+  content: "\6b";
+}
+.icon-l::before {
+  content: "\6c";
+}
+.icon-m::before {
+  content: "\6d";
+}
+.icon-n::before {
+  content: "\6e";
+}
+.icon-o::before {
+  content: "\6f";
+}
+.icon-p::before {
+  content: "\70";
+}
+.icon-t::before {
+  content: "\74";
+}
+.icon-u::before {
+  content: "\75";
+}
+.icon-w::before {
+  content: "\77";
+}
+.icon-x::before {
+  content: "\78";
+}
+.icon-z::before {
+  content: "\7a";
+}
